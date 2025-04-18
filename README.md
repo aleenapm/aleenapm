@@ -51,3 +51,8 @@
 
 ---
 
+### 🔥 Contribution Graph
+
+<p align="center">
+  [![Aleena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aleenapm&theme=github-compact)](https://github.com/aleenapm/github-readme-activity-graph)
+</p>
