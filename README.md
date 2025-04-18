@@ -51,17 +51,3 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aleenapm&theme=darkhub&column=7" alt="trophies" />
-</p>
-
----
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aleenapm&bg_color=1a1a1a&color=27e8a7&line=0fcda5&point=ffffff&area=true&hide_border=true" />
-</p>
-
