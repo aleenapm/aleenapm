@@ -3,7 +3,7 @@
 # 👋 Hey there, I'm Aleena P M  
 ### 🚀 MERN Stack Developer | Problem Solver | Tech Explorer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&width=600&center=true&vCenter=true&lines=Turning+Ideas+into+Interactive+Web+Apps;MERN+Stack+Enthusiast+💻;Learning+Relentlessly+🚀;On+a+Mission+to+Crack+10+LPA+Roles+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&width=600&center=true&vCenter=true&lines=Turning+Ideas+into+Interactive+Web+Apps;MERN+Stack+Enthusiast+💻;Learning+Relentlessly+🚀;)](https://git.io/typing-svg)
 
 💡 *"Consistency is what transforms average into excellence."*
 
