@@ -37,7 +37,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenapm&layout=compact&theme=radical" height="160px"/>
   
 </p>
-[![Aleena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AleenaPM&theme=react-dark&hide_border=true&area=true)](https://github.com/AleenaPM)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AleenaPM&theme=react-dark&hide_border=true&area=true" alt="Aleena's GitHub Activity Graph" />
+</p>
 
 ---
 
