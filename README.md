@@ -13,11 +13,9 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently learning TypeScript, WebRTC & Clean Architecture
+- 🔭 Currently learning MERN full-stack
 - 🧑‍💻 Focused on building powerful full-stack applications
 - 💡 Passionate about problem-solving and mastering system design
-- 📦 Practicing DSA + MongoDB + Advanced Node.js for interviews
-- 💰 Goal: Land a high-paying full-stack role and build passive income projects
 
 ---
 
@@ -28,7 +26,7 @@
 - **Backend**: Node.js, Express
 - **Database**: MongoDB, SQL
 - **Dev Tools**: Git, Postman, VS Code, Figma
-- **Other**: JWT, REST APIs, Clean Code, Deployment (Vercel & Render)
+- **Other**: JWT, REST APIs, Clean Code, Deployment 
 
 ---
 
@@ -37,8 +35,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aleenapm&show_icons=true&theme=radical" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenapm&layout=compact&theme=radical" height="160px"/>
+  
 </p>
-
+[![Aleena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aleenapm&theme=react-dark&hide_border=true&area=true)](https://github.com/aleenapm/github-readme-activity-graph)
 ---
 
 ### 🔗 Connect With Me
