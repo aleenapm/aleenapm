@@ -22,7 +22,7 @@
 ### 💻 My Tech Toolbox
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frontend**: React, Redux, TailwindCSS
+- **Frontend**: React, Redux
 - **Backend**: Node.js, Express
 - **Database**: MongoDB, SQL
 - **Dev Tools**: Git, Postman, VS Code, Figma
